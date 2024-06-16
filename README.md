@@ -36,5 +36,5 @@ To use this contract, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/soroban-currency-converter.git
+   git clone https://github.com/imtobiasmart/soroban-currency-converter.git
    cd soroban-currency-converter
