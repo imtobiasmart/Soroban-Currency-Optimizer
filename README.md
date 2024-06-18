@@ -1,5 +1,5 @@
 # Soroban-Currency-Optimizer
-The Soroban Currency Converter is a decentralized service designed to facilitate seamless currency conversions using blockchain technology. It leverages the Soroban platform to provide a secure, transparent, and efficient way to convert currencies, supporting various DeFi applications and financial services.
+The Soroban Currency Converter is a decentralized service designed to facilitate seamless currency conversions using Stellar blockchain. It leverages the Soroban platform to provide a secure, transparent, and efficient way to convert currencies, supporting various DeFi applications and financial services.
 
 This repository contains a simple Soroban smart contract for converting currencies using a simulated exchange rate. The contract is designed to demonstrate basic functionality and can be extended to fetch real-time exchange rates from an oracle like Reflector.Network.
 
